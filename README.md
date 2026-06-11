@@ -1,7 +1,7 @@
 <h2 align="center">Dashboard Preview</h2>
 
 <p align="center">
-  <img src="Shift Incharge Performance.png" width="100%">
+  <img src="Shift Incharge Performance Dashboard.png" width="100%">
 </p>
 # Mining-MIS-Performance-Dashboard
 Interactive Excel VBA Dashboard for monitoring shift incharge performance, production quantity, trips, productivity (M3/Hr), and equipment breakdown analysis.
