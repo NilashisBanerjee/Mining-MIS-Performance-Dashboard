@@ -1,3 +1,8 @@
+<h2 align="center">Dashboard Preview</h2>
+
+<p align="center">
+  <img src="Shift Incharge Performance.png" width="100%">
+</p>
 # Mining-MIS-Performance-Dashboard
 Interactive Excel VBA Dashboard for monitoring shift incharge performance, production quantity, trips, productivity (M3/Hr), and equipment breakdown analysis.
 This project is an interactive Excel VBA Dashboard designed to monitor and analyze Shift Incharge performance across different operational metrics.
@@ -28,7 +33,6 @@ Features
 
 Tools Used
 Microsoft Excel
-VBA
 Pivot Tables
 Pivot Charts
 Slicers
